@@ -1,0 +1,41 @@
+.contenedor{
+    width: 320px;
+    height: 497px;
+    background-color: #fff;
+    
+}
+
+.contenedorImg img{
+    width: 288x;
+    height: 288px;
+
+}
+body{
+    
+    background-color: #D5E1EF;
+    
+}
+h1{
+    font-family: Outfit;
+    font-weight: 700;
+    font-size: 22px;
+}
+p{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Outfit;
+    color: gray;
+}
+
+.contenedorText{
+
+    width: 288px;
+    height: 129px;
+    
+}
+.con{
+
+    height: 100vh;
+    
+}
+
